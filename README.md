@@ -1,10 +1,12 @@
 # RNPay
 A sample app showing how to use the Tipsi-Stripe library for handling payments in React Native with a Lumen PHP backend. 
 
+You can read the tutorial at: [Accepting payments in React Native](https://pusher.com/tutorials/react-native-payments)
+
 ### Prerequisites
 
 - React Native development environment or [Expo](https://expo.io/)
-- [PHP development environment] - you can use either [Laravel Homestead](https://laravel.com/docs/5.7/homestead) or [Valet](https://laravel.com/docs/5.7/valet).
+- PHP development environment - you can use either [Laravel Homestead](https://laravel.com/docs/5.7/homestead) or [Valet](https://laravel.com/docs/5.7/valet).
 - [Ngrok account](https://ngrok.com/)
 - [Google Play developer console account](https://play.google.com/apps/publish/signup/#)
 - [Apple developer account](https://developer.apple.com/programs/enroll/)
