@@ -27,6 +27,7 @@ git clone https://github.com/anchetaWern/RNPay.git
 ```
 cd RNPay
 yarn install
+react-native eject
 react-native link
 ```
 
